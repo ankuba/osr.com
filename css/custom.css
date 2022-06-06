@@ -1,0 +1,26 @@
+.ttm-figure {
+    position: relative;
+    text-align: center;
+  }
+
+
+.ttm-figure a{
+    color:#fff;
+}
+
+/* Centered text */
+.bottom-left {
+    position: absolute;
+    bottom: 8px;
+    left: 16px;
+    z-index: 1;
+    font-size: 20px;
+  }
+
+  .bck-img {
+    position: relative;
+    z-index: 1;
+    background-image: url(../images/footer-map.jpg);
+    background-position: center center;
+    background-attachment: scroll;
+}
